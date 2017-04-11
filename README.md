@@ -6,10 +6,8 @@ The Repository contains ipython notebooks for the following topics
 2. Logistic Regressio
 3. ID3 trees
 4. Naive Bayes
-5. SVM
-6. K-NN
-7. K-means
-8. Aggloromative clustering
+5. K-NN
+6. K-means
 
 
 Visualizations are provided to give insights of the data as well as the algorithm specifications.
