@@ -16,7 +16,8 @@ Visualizations are provided to give insights of the data as well as the algorith
 
 To use the notebooks
 
-Requirements: Install the latest package of anaconda with python 2.7##
+## Requirements: 
+Install the latest package of anaconda with python 2.7
 	The packages required in the notebooks
 	1. pandas        -reading csv files
 	2. numpy         -fast mathematical operations library
@@ -26,15 +27,15 @@ Requirements: Install the latest package of anaconda with python 2.7##
 	6. jupyter	 - For viewing the files!
 	  and ipython
 
-Steps.
-1. Install Anaconda
+### Steps.
+1. Install Anaconda. Install the required packages listed above
 2. On terminal
-	Linux: 
+	2.1. Linux: 
 	1. sudo su root 
 	2. source activate root
 	3. jupyter notebook
 	
-	Windows: Open cmd as admin
+	2.2. Windows: Open cmd as admin
 	1. activate root
 	2. jupyter notebook
 
